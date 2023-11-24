@@ -1,0 +1,13 @@
+snowflakeproj:
+  outputs:
+    dev:
+      account: qifdlfz-jb11348
+      database: DB
+      password: Sankar@2024
+      role: ACCOUNTADMIN
+      schema: PUBLIC
+      threads: 1
+      type: snowflake
+      user: spm25051988
+      warehouse: COMPUTE_WH
+  target: dev
